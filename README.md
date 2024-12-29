@@ -3,7 +3,7 @@
 ## About the Project 
 This project is designed to create a flexible framework for simulating cancer growth and the effects of chemotherapy treatments. The simulation is built around a series of interconnected components that model the dynamic environment of a tissue, including cancerous cell behavior, the extracellular matrix (ECM), and the overall tissue structure. The framework is structured with tunable parameters that reflect real-world biological processes, allowing for detailed exploration of how cancer cells grow, mutate, and respond to treatments like chemotherapy.
 
-###Overview of the Components
+### Overview of the Components
 The simulation uses a multilayered network of objects, where each object represents a key aspect of the biological system being modeled. These objects include:
 
 Cells: Represent the individual biological units within the tissue. Each cell is characterized by its position in the tissue matrix, whether it is normal or cancerous, and a set of biological properties such as mutation probability, apoptosis resistance, recovery rate, and invasion probability. The cells interact with each other and their environment, and can undergo processes like division or apoptosis (programmed cell death).
