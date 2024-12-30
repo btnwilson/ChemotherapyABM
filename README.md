@@ -3,6 +3,8 @@
 ## About the Project 
 This project is designed to create a flexible framework for simulating cancer growth and the effects of chemotherapy treatments. The simulation is built around three interconnected classes: Cell, Tissue, and Extracellular Matrix (ECM). The model is structured with tunable parameters that reflect real-world biological processes, allowing for detailed exploration of how cancer cells grow, mutate, and respond to treatments like chemotherapy. This model only simulates a 2d cross-section of tissue with a simple vasculature arrangement of a single vessel in the center of the tissue. 
 
+Link to a video of a sample simulation: https://drive.google.com/file/d/1985RiKLGS9Euhnk-zc5zrYwsXYemF6OW/view?usp=sharing 
+
 ### Overview of the Components
 The simulation uses a multilayered network of the previously mentioned classes:
 
