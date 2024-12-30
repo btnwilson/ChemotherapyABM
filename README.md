@@ -22,13 +22,12 @@ Mutation and Cell Death Resistance: Cells can accumulate mutations, which may af
 ### Tissue Metrics
 The simulation provides multiple metrics that track the state of the tissue over time. These metrics include:
 
-Number of Cancer Cells: Tracks how many cancer cells are present in the tissue at any given time.
-Number of Mutations: Tracks the mutation rate of cells in the tissue.
-Apoptosis Resistance: Tracks how resistant cells are to apoptosis, which affects their ability to survive chemotherapy.
-Recovery Rate: Measures how fast cells recover from damage, impacting their survival and division rates.
-Invasion Probability: Represents the likelihood that cells will invade surrounding tissue, a key factor in cancer metastasis.
-Damage: Tracks how much damage each cell has sustained, reflecting their health and the impact of chemotherapy or other stress factors.
-Time-based Simulation: The simulation runs over a series of time steps, where each step represents a discrete period in the simulation (e.g., one hour or one day). The model updates the state of the tissue at each time step, allowing for the observation of cancer growth, mutation, and the response to treatment over time.
+Number of Cancer Cells: Tracks how many cancer cells are present in the tissue at any given time. 
+Number of Mutations: Tracks the mutation rate of cells in the tissue. 
+Apoptosis Resistance: Tracks how resistant cells are to apoptosis, which affects their ability to survive chemotherapy. 
+Recovery Rate: Measures how fast cells recover from damage, impacting their survival and division rates. 
+Invasion Probability: Represents the likelihood that cells will invade surrounding tissue, a key factor in cancer metastasis. 
+Damage: Tracks how much damage each cell has sustained, reflecting their health and the impact of chemotherapy or other stress factors. 
 
 Visualization: The simulation generates visualizations of the tissue, where each cell is represented by a color based on its state (normal, cancerous, or dead). These visualizations can be animated to show how the tissue changes over time. A series of frames is created throughout the simulation, which can be exported as a video showing the progression of cancer and the effects of chemotherapy treatments. 
 
@@ -38,15 +37,15 @@ The framework allows the following parameters to be adjusted, enabling users to 
 Cell properties: Mutation rate, apoptosis resistance, invasion probability, recovery rate, and the chemotherapy resistance of cancer cells.
 Extracellular Matrix: Concentration of nutrients, oxygen, and chemotherapy drugs at different locations in the tissue.  
 Tissue Size: The size of the grid representing the tissue affects the number of cells and their interactions.  
-Treatment Parameters: The interval and concentration of chemotherapy treatments, and the delay before treatment begins.
+Treatment Parameters: The interval and concentration of chemotherapy treatments and the delay before treatment begins.
 
 ### Potential Applications
 This simulation framework can be used for:
 
-Exploring Cancer Dynamics: Understanding how cancer grows and spreads under different conditions, including the role of mutations and the influence of the ECM.
-Testing Chemotherapy Regimens: Investigating how different chemotherapy schedules, drug concentrations, and administration intervals affect cancer growth and cell survival.
-Investigating Cancer Evolution: Simulating how genetic mutations contribute to cancer progression, including the development of resistance to treatment and metastasis.
-Modeling Tumor Heterogeneity: Understanding how different genetic pathways or cell types coexist and compete within the tumor microenvironment.
+Exploring Cancer Dynamics: Understanding how cancer grows and spreads under different conditions, including the role of mutations and the influence of the ECM. 
+Testing Chemotherapy Regimens: Investigating how different chemotherapy schedules, drug concentrations, and administration intervals affect cancer growth and cell survival. 
+Investigating Cancer Evolution: Simulating how genetic mutations contribute to cancer progression, including the development of resistance to treatment and metastasis. 
+Modeling Tumor Heterogeneity: Understanding how different genetic pathways or cell types coexist and compete within the tumor microenvironment. 
 
 By adjusting the tunable parameters, users can model a variety of cancer types, treatment strategies, and genetic scenarios, making this framework a powerful tool for cancer research and drug development simulations.
 
