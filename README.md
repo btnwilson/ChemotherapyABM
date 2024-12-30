@@ -36,8 +36,8 @@ Visualization: The simulation generates visualizations of the tissue, where each
 The framework allows the following parameters to be adjusted, enabling users to explore different biological scenarios:
 
 Cell properties: Mutation rate, apoptosis resistance, invasion probability, recovery rate, and the chemotherapy resistance of cancer cells.
-Extracellular Matrix: Concentration of nutrients, oxygen, and chemotherapy drugs at different locations in the tissue.
-Tissue Size: The size of the grid representing the tissue, affecting the number of cells and their interactions.
+Extracellular Matrix: Concentration of nutrients, oxygen, and chemotherapy drugs at different locations in the tissue. 
+Tissue Size: The size of the grid representing the tissue, affecting the number of cells and their interactions. 
 Treatment Parameters: The interval and concentration of chemotherapy treatments, and the delay before treatment begins.
 
 ### Potential Applications
