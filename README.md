@@ -29,7 +29,7 @@ The simulation provides multiple metrics that track the state of the tissue over
 - Invasion Probability: Represents the likelihood that cells will invade surrounding tissue, a key factor in cancer metastasis. 
 - Damage: Tracks how much damage each cell has sustained, reflecting their health and the impact of chemotherapy or other stress factors. 
 
-- Visualization: The simulation generates visualizations of the tissue, where each cell is represented by a color based on its state (normal, cancerous, or dead). These visualizations can be animated to show how the tissue changes over time. A series of frames is created throughout the simulation, which can be exported as a video showing the progression of cancer and the effects of chemotherapy treatments. 
+Visualization: The simulation generates visualizations of the tissue, where each cell is represented by a color based on its state (normal, cancerous, or dead). These visualizations can be animated to show how the tissue changes over time. A series of frames is created throughout the simulation, which can be exported as a video showing the progression of cancer and the effects of chemotherapy treatments. 
 
 ### Tunable Parameters
 The framework allows the following parameters to be adjusted, enabling users to explore different biological scenarios:
