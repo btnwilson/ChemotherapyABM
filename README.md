@@ -43,9 +43,9 @@ Treatment Parameters: The interval and concentration of chemotherapy treatments 
 This simulation framework can be used for:
 
 Exploring Cancer Dynamics: Understanding how cancer grows and spreads under different conditions, including the role of mutations and the influence of the ECM.      
-Testing Chemotherapy Regimens: Investigating how different chemotherapy schedules, drug concentrations, and administration intervals affect cancer growth and cell survival. 
-Investigating Cancer Evolution: Simulating how genetic mutations contribute to cancer progression, including the development of resistance to treatment and metastasis. 
-Modeling Tumor Heterogeneity: Understanding how different genetic pathways or cell types coexist and compete within the tumor microenvironment. 
+Testing Chemotherapy Regimens: Investigating how different chemotherapy schedules, drug concentrations, and administration intervals affect cancer growth and cell survival.    
+Investigating Cancer Evolution: Simulating how genetic mutations contribute to cancer progression, including the development of resistance to treatment and metastasis.     
+Modeling Tumor Heterogeneity: Understanding how different genetic pathways or cell types coexist and compete within the tumor microenvironment.        
 
 By adjusting the tunable parameters, users can model a variety of cancer types, treatment strategies, and genetic scenarios, making this framework a powerful tool for cancer research and drug development simulations.
 
